@@ -6,7 +6,7 @@ Training done in 69.0 min. Best val acc: 0.8531
 
 <img width="788" height="701" alt="image" src="https://github.com/user-attachments/assets/2e618357-7641-4f03-b6ef-cbee6f117ad0" />
 
-Overall Accuracy: 0.8531
+Overall Accuracy: 0.8531 \n
 Macro Precision: 0.8397
 Macro Recall: 0.8755
 Specificity: 0.9773
